@@ -7,10 +7,14 @@
 ```
 python main.py docx2csv
 ```
-
+QmfYpdPoNMMpjGGcuWD8Kh8Ftq9XAF4XAmt4LC9oF1gvvV
 ## 資料規格規格
 
-整理後的資料為pair.csv，可於[https://tinyurl.com/yb5u5lul](https://tinyurl.com/yb5u5lul)下載
+整理後的資料為pair.csv，可於[https://tinyurl.com/y7kvop6a](https://tinyurl.com/y7kvop6a)下載或使用ipfs指令
+
+```
+ipfs cat QmfYpdPoNMMpjGGcuWD8Kh8Ftq9XAF4XAmt4LC9oF1gvvV
+```
 
 |欄位|意義|
 |----|----|

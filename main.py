@@ -49,8 +49,8 @@ def pair_gen(**kwargs):
                     text = ''.join(list(data)[data.find(begin) : data.find(end) + len(end)])
                     if text == '':
                         ERROR.write(f'FILE{i} 編號{idx} 空字串: ' + ','.join(row))
-                    
-                    PAIR.write(f'{summary},{text}\n')
+                    else:
+                        PAIR.write(f'{summary},{text}\n')
 
 if __name__ == '__main__':
     fire.Fire()
