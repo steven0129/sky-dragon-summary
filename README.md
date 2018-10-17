@@ -8,7 +8,9 @@
 python main.py docx2csv
 ```
 
-## pair.csv規格
+## 資料規格規格
+
+整理後的資料為pair.csv，可於[https://tinyurl.com/yb5u5lul](https://tinyurl.com/yb5u5lul)下載
 
 |欄位|意義|
 |----|----|
